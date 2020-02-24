@@ -1,3 +1,9 @@
+###HFACQuant - Convex Optimization
+
+This repository currently contains a clone of cvxportfolio.
+Below is a copy of README.md from cvxportfolio:
+
+
 `cvxportfolio`
 =============
 [![CVXportfolio on PyPI](https://img.shields.io/pypi/v/cvxportfolio.svg)](https://pypi.org/project/cvxportfolio/)
