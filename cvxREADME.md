@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ###HFACQuant - Convex Optimization
 
 This repository currently contains a clone of cvxportfolio.
@@ -52,8 +51,3 @@ pip install nose
 nosetests cvxportfolio
 ```
 
-=======
-# HFACQuant - Convex Optimization
-
-Repository for convex optimization model of portfolio optimization problem.
->>>>>>> 9f7a60981a36e4194bcdb6e42867f26df26ff1ed
