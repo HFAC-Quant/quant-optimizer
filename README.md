@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-###HFACQuant - Convex Optimization
+# HFACQuant - Convex Optimization
 
 This repository currently contains a clone of cvxportfolio.
 Below is a copy of README.md from cvxportfolio:
@@ -53,7 +52,5 @@ nosetests cvxportfolio
 ```
 
 =======
-# HFACQuant - Convex Optimization
 
 Repository for convex optimization model of portfolio optimization problem.
->>>>>>> 9f7a60981a36e4194bcdb6e42867f26df26ff1ed
