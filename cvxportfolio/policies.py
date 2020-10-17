@@ -262,6 +262,10 @@ class SinglePeriodOpt(BasePolicy):
         costs, constraints = [], []
 
         for cost in self.costs:
+            print(t)
+            print(wplus)
+            print(z)
+            print(value)
             cost_expr, const_expr = cost.weight_expr(t, wplus, z, value)
             costs.append(cost_expr)
             constraints += const_expr
